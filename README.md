@@ -1,7 +1,8 @@
 # Simple chatbot using python
-    Hello everyone, Sarvdny here!
-    I would like to say that this is my very first A.I chatbot by using openAI and Gradio
-    So let me quickly tell you how to run this chatbot:
+
+Hello everyone, Sarvdny here!
+I would like to say that this is my very first A.I chatbot by using openAI and Gradio
+So let me quickly tell you how to run this chatbot:
 
 ## Setup:
 
