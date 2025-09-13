@@ -10,11 +10,11 @@ So let me quickly tell you how to run this chatbot:
 2. Clone this repo to your device
 3. Make a `.env` file inside the folder itelf
 4. Add the given variables inside the `.env` file
-`code
+```code
     OPENAI_API_KEY="Your_API_Key"
     OPENAI_MODEL="Your preferred AI model"
     OPENAI_BASE_URL="API base URL"
-`
+```
 5. After saving all, just type:
     ```bash
             uv init
