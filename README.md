@@ -11,9 +11,9 @@ So let me quickly tell you how to run this chatbot:
 3. Make a `.env` file inside the folder itelf
 4. Add the given variables inside the `.env` file
 ```code
-    OPENAI_API_KEY="Your_API_Key"
-    OPENAI_MODEL="Your preferred AI model"
-    OPENAI_BASE_URL="API base URL"
+OPENAI_API_KEY="Your_API_Key"
+OPENAI_MODEL="Your preferred AI model"
+OPENAI_BASE_URL="API base URL"
 ```
 5. After saving all, just type:
     ```bash
