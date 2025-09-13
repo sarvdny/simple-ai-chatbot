@@ -17,9 +17,9 @@ So let me quickly tell you how to run this chatbot:
 ```
 5. After saving all, just type:
     ```bash
-            uv init
-            uv sync
-            uv run main.py
+    uv init
+    uv sync
+    uv run main.py
     ```
     ---
     After a successfull connection your AI will be online!
